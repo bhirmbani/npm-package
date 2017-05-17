@@ -14,3 +14,7 @@ var twitterSearchConsole = require('twitter-search-console');
 
 twitterSearchConsole.get('Jakarta', yourconsumerkey, yourappsecret, yourusertoken, yourusersecret); // Jakarta is your search term
 ```
+
+### Future Plans
+1. Using process.argv
+2. Refined search result for better user experience
