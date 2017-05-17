@@ -1,0 +1,22 @@
+{
+  "name": "twitter-search-console",
+  "version": "1.0.4",
+  "description": "Search for twitter timeline and show it on your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhirmbani/npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhirmbani/npm-package/issues"
+  },
+  "homepage": "https://github.com/bhirmbani/npm-package#readme",
+  "dependencies": {
+    "oauth": "^0.9.15"
+  }
+}
